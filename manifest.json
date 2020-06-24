@@ -1,0 +1,16 @@
+{
+    "name": "Visit Malang",
+    "short_name": "VisitMalang",
+    "description": "Know More About Malang",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#15317E",
+    "theme_color": "#15317E",
+    "icons": [
+        {
+            "src": "/images/icon-malang.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
